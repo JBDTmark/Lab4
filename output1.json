@@ -1,0 +1,912 @@
+[
+  {
+    "medication": "Metoprolol Tartrate",
+    "city": "Gwent",
+    "volume": 9655
+  },
+  {
+    "medication": "Tadalafil",
+    "city": "Gwent",
+    "volume": 4838
+  },
+  {
+    "medication": "Pregabalin",
+    "city": "Dyfed",
+    "volume": 7043
+  },
+  {
+    "medication": "Tizanidine",
+    "city": "Dyfed",
+    "volume": 2268
+  },
+  {
+    "medication": "Gabapentin",
+    "city": "Dyfed",
+    "volume": 2463
+  },
+  {
+    "medication": "Doxazosin mesylate",
+    "city": "Dyfed",
+    "volume": 2315
+  },
+  {
+    "medication": "Levothyroxine sodium",
+    "city": "Gwent",
+    "volume": 4541
+  },
+  {
+    "medication": "Pregabalin",
+    "city": "Gwent",
+    "volume": 14554
+  },
+  {
+    "medication": "Mirtazapine",
+    "city": "Gwent",
+    "volume": 4874
+  },
+  {
+    "medication": "Triamterene and Hydrochlorothiazide",
+    "city": "Gwynedd",
+    "volume": 2186
+  },
+  {
+    "medication": "Gabapentin",
+    "city": "Gwynedd",
+    "volume": 2484
+  },
+  {
+    "medication": "ATORVASTATIN CALCIUM",
+    "city": "Dyfed",
+    "volume": 4569
+  },
+  {
+    "medication": "ACETAMINOPHEN AND CODEINE PHOSPHATE",
+    "city": "Dyfed",
+    "volume": 2561
+  },
+  {
+    "medication": "Jardiance",
+    "city": "Lancashire",
+    "volume": 2450
+  },
+  {
+    "medication": "Metoprolol Tartrate",
+    "city": "Lancashire",
+    "volume": 5042
+  },
+  {
+    "medication": "ACETAMINOPHEN AND CODEINE PHOSPHATE",
+    "city": "Gwent",
+    "volume": 5169
+  },
+  {
+    "medication": "Triamterene and Hydrochlorothiazide",
+    "city": "Lancashire",
+    "volume": 2540
+  },
+  {
+    "medication": "Pregabalin",
+    "city": "Lancashire",
+    "volume": 7013
+  },
+  {
+    "medication": "LOSARTAN POTASSIUM",
+    "city": "Aberdeenshire",
+    "volume": 2473
+  },
+  {
+    "medication": "Zolpidem Tartrate",
+    "city": "Aberdeenshire",
+    "volume": 2765
+  },
+  {
+    "medication": "Triamterene and Hydrochlorothiazide",
+    "city": "Aberdeenshire",
+    "volume": 2557
+  },
+  {
+    "medication": "Isosorbide Mononitrate",
+    "city": "Aberdeenshire",
+    "volume": 2425
+  },
+  {
+    "medication": "ATORVASTATIN CALCIUM",
+    "city": "Oxfordshire",
+    "volume": 4830
+  },
+  {
+    "medication": "ATORVASTATIN CALCIUM",
+    "city": "Gwent",
+    "volume": 9374
+  },
+  {
+    "medication": "Dicyclomine Hydrochloride",
+    "city": "Gwent",
+    "volume": 4694
+  },
+  {
+    "medication": "Jardiance",
+    "city": "Gwent",
+    "volume": 4784
+  },
+  {
+    "medication": "ED CHLORPED JR",
+    "city": "Gwent",
+    "volume": 4810
+  },
+  {
+    "medication": "Pregabalin",
+    "city": "Aberdeenshire",
+    "volume": 7176
+  },
+  {
+    "medication": "ATORVASTATIN CALCIUM",
+    "city": "Aberdeenshire",
+    "volume": 4601
+  },
+  {
+    "medication": "Mirtazapine",
+    "city": "Aberdeenshire",
+    "volume": 2529
+  },
+  {
+    "medication": "Acetaminophen",
+    "city": "Gwent",
+    "volume": 4436
+  },
+  {
+    "medication": "Tizanidine",
+    "city": "Lancashire",
+    "volume": 2577
+  },
+  {
+    "medication": "Tadalafil",
+    "city": "Lancashire",
+    "volume": 2418
+  },
+  {
+    "medication": "Pregabalin",
+    "city": "Gwynedd",
+    "volume": 7850
+  },
+  {
+    "medication": "Metoprolol Tartrate",
+    "city": "Gwynedd",
+    "volume": 4648
+  },
+  {
+    "medication": "Zolpidem Tartrate",
+    "city": "Gwynedd",
+    "volume": 2485
+  },
+  {
+    "medication": "Dicyclomine Hydrochloride",
+    "city": "Clwyd",
+    "volume": 2396
+  },
+  {
+    "medication": "Tadalafil",
+    "city": "Clwyd",
+    "volume": 2578
+  },
+  {
+    "medication": "Pregabalin",
+    "city": "Clwyd",
+    "volume": 6960
+  },
+  {
+    "medication": "Metoprolol Tartrate",
+    "city": "Clwyd",
+    "volume": 5248
+  },
+  {
+    "medication": "Tizanidine",
+    "city": "Gwent",
+    "volume": 4317
+  },
+  {
+    "medication": "Tadalafil",
+    "city": "Gwynedd",
+    "volume": 2130
+  },
+  {
+    "medication": "Jardiance",
+    "city": "Gwynedd",
+    "volume": 2521
+  },
+  {
+    "medication": "Metoprolol Tartrate",
+    "city": "Dyfed",
+    "volume": 4715
+  },
+  {
+    "medication": "Zolpidem Tartrate",
+    "city": "Dyfed",
+    "volume": 2643
+  },
+  {
+    "medication": "Hydroxyzine Pamoate",
+    "city": "Dyfed",
+    "volume": 2610
+  },
+  {
+    "medication": "Quetiapine Fumarate",
+    "city": "Dyfed",
+    "volume": 2723
+  },
+  {
+    "medication": "GABAPENTIN",
+    "city": "Dyfed",
+    "volume": 2212
+  },
+  {
+    "medication": "Isosorbide Mononitrate",
+    "city": "Gwent",
+    "volume": 4335
+  },
+  {
+    "medication": "Pregabalin",
+    "city": "Oxfordshire",
+    "volume": 7630
+  },
+  {
+    "medication": "Ibuprofen",
+    "city": "Gwent",
+    "volume": 4745
+  },
+  {
+    "medication": "Amlodipine Besylate",
+    "city": "Aberdeenshire",
+    "volume": 2538
+  },
+  {
+    "medication": "Levothyroxine sodium",
+    "city": "Aberdeenshire",
+    "volume": 2374
+  },
+  {
+    "medication": "Acetaminophen",
+    "city": "Aberdeenshire",
+    "volume": 2813
+  },
+  {
+    "medication": "RANOLAZINE",
+    "city": "Aberdeenshire",
+    "volume": 2488
+  },
+  {
+    "medication": "LOSARTAN POTASSIUM",
+    "city": "Clwyd",
+    "volume": 2062
+  },
+  {
+    "medication": "ED CHLORPED JR",
+    "city": "Clwyd",
+    "volume": 2457
+  },
+  {
+    "medication": "GABAPENTIN",
+    "city": "Aberdeenshire",
+    "volume": 2380
+  },
+  {
+    "medication": "Gabapentin",
+    "city": "Aberdeenshire",
+    "volume": 2385
+  },
+  {
+    "medication": "Amlodipine Besylate",
+    "city": "Clwyd",
+    "volume": 2805
+  },
+  {
+    "medication": "Quetiapine Fumarate",
+    "city": "Clwyd",
+    "volume": 2468
+  },
+  {
+    "medication": "Levothyroxine sodium",
+    "city": "Clwyd",
+    "volume": 2256
+  },
+  {
+    "medication": "Metoprolol Tartrate",
+    "city": "Aberdeenshire",
+    "volume": 4822
+  },
+  {
+    "medication": "ACETAMINOPHEN AND CODEINE PHOSPHATE",
+    "city": "Oxfordshire",
+    "volume": 2254
+  },
+  {
+    "medication": "Mirtazapine",
+    "city": "Oxfordshire",
+    "volume": 2688
+  },
+  {
+    "medication": "Ibuprofen",
+    "city": "Lancashire",
+    "volume": 2313
+  },
+  {
+    "medication": "Hydroxyzine Pamoate",
+    "city": "Aberdeenshire",
+    "volume": 2326
+  },
+  {
+    "medication": "Isoniazid",
+    "city": "Gwent",
+    "volume": 4925
+  },
+  {
+    "medication": "Doxazosin mesylate",
+    "city": "Gwent",
+    "volume": 4670
+  },
+  {
+    "medication": "Acetaminophen",
+    "city": "Clwyd",
+    "volume": 2423
+  },
+  {
+    "medication": "GABAPENTIN",
+    "city": "Oxfordshire",
+    "volume": 2082
+  },
+  {
+    "medication": "RANOLAZINE",
+    "city": "Oxfordshire",
+    "volume": 2517
+  },
+  {
+    "medication": "Levothyroxine sodium",
+    "city": "Oxfordshire",
+    "volume": 2539
+  },
+  {
+    "medication": "Amlodipine Besylate",
+    "city": "Gwent",
+    "volume": 4333
+  },
+  {
+    "medication": "Doxazosin mesylate",
+    "city": "Aberdeenshire",
+    "volume": 2369
+  },
+  {
+    "medication": "Isosorbide Mononitrate",
+    "city": "Dyfed",
+    "volume": 2232
+  },
+  {
+    "medication": "Isosorbide Mononitrate",
+    "city": "Oxfordshire",
+    "volume": 2329
+  },
+  {
+    "medication": "ED CHLORPED JR",
+    "city": "Oxfordshire",
+    "volume": 2262
+  },
+  {
+    "medication": "LOSARTAN POTASSIUM",
+    "city": "Oxfordshire",
+    "volume": 2335
+  },
+  {
+    "medication": "Gabapentin",
+    "city": "Clwyd",
+    "volume": 2484
+  },
+  {
+    "medication": "Zolpidem Tartrate",
+    "city": "Clwyd",
+    "volume": 2679
+  },
+  {
+    "medication": "Jardiance",
+    "city": "Oxfordshire",
+    "volume": 2395
+  },
+  {
+    "medication": "Quetiapine Fumarate",
+    "city": "Oxfordshire",
+    "volume": 2660
+  },
+  {
+    "medication": "Dicyclomine Hydrochloride",
+    "city": "Oxfordshire",
+    "volume": 2798
+  },
+  {
+    "medication": "Tadalafil",
+    "city": "Oxfordshire",
+    "volume": 2330
+  },
+  {
+    "medication": "Doxazosin mesylate",
+    "city": "Oxfordshire",
+    "volume": 2403
+  },
+  {
+    "medication": "Hydroxyzine Pamoate",
+    "city": "Oxfordshire",
+    "volume": 2346
+  },
+  {
+    "medication": "Zolpidem Tartrate",
+    "city": "Gwent",
+    "volume": 4457
+  },
+  {
+    "medication": "Gabapentin",
+    "city": "Oxfordshire",
+    "volume": 2698
+  },
+  {
+    "medication": "Zolpidem Tartrate",
+    "city": "Oxfordshire",
+    "volume": 2722
+  },
+  {
+    "medication": "ATORVASTATIN CALCIUM",
+    "city": "Lancashire",
+    "volume": 4250
+  },
+  {
+    "medication": "LOSARTAN POTASSIUM",
+    "city": "Gwent",
+    "volume": 5409
+  },
+  {
+    "medication": "RANOLAZINE",
+    "city": "Clwyd",
+    "volume": 2310
+  },
+  {
+    "medication": "Jardiance",
+    "city": "Aberdeenshire",
+    "volume": 2328
+  },
+  {
+    "medication": "Amlodipine Besylate",
+    "city": "Oxfordshire",
+    "volume": 2529
+  },
+  {
+    "medication": "ED CHLORPED JR",
+    "city": "Dyfed",
+    "volume": 2174
+  },
+  {
+    "medication": "Mirtazapine",
+    "city": "Lancashire",
+    "volume": 2434
+  },
+  {
+    "medication": "Furosemide",
+    "city": "Aberdeenshire",
+    "volume": 2380
+  },
+  {
+    "medication": "Metoprolol Tartrate",
+    "city": "Oxfordshire",
+    "volume": 5132
+  },
+  {
+    "medication": "GABAPENTIN",
+    "city": "Gwent",
+    "volume": 4779
+  },
+  {
+    "medication": "RANOLAZINE",
+    "city": "Gwent",
+    "volume": 4345
+  },
+  {
+    "medication": "Mirtazapine",
+    "city": "Gwynedd",
+    "volume": 2540
+  },
+  {
+    "medication": "Isoniazid",
+    "city": "Gwynedd",
+    "volume": 2279
+  },
+  {
+    "medication": "Quetiapine Fumarate",
+    "city": "Gwynedd",
+    "volume": 2263
+  },
+  {
+    "medication": "RANOLAZINE",
+    "city": "Gwynedd",
+    "volume": 2501
+  },
+  {
+    "medication": "Zolpidem Tartrate",
+    "city": "Lancashire",
+    "volume": 2258
+  },
+  {
+    "medication": "Doxazosin mesylate",
+    "city": "Gwynedd",
+    "volume": 2360
+  },
+  {
+    "medication": "Acetaminophen",
+    "city": "Dyfed",
+    "volume": 2582
+  },
+  {
+    "medication": "Hydroxyzine Pamoate",
+    "city": "Gwent",
+    "volume": 4519
+  },
+  {
+    "medication": "Isosorbide Mononitrate",
+    "city": "Gwynedd",
+    "volume": 2341
+  },
+  {
+    "medication": "Triamterene and Hydrochlorothiazide",
+    "city": "Gwent",
+    "volume": 5092
+  },
+  {
+    "medication": "ED CHLORPED JR",
+    "city": "Aberdeenshire",
+    "volume": 2689
+  },
+  {
+    "medication": "ACETAMINOPHEN AND CODEINE PHOSPHATE",
+    "city": "Aberdeenshire",
+    "volume": 2540
+  },
+  {
+    "medication": "Isoniazid",
+    "city": "Oxfordshire",
+    "volume": 2417
+  },
+  {
+    "medication": "Triamterene and Hydrochlorothiazide",
+    "city": "Oxfordshire",
+    "volume": 2899
+  },
+  {
+    "medication": "Furosemide",
+    "city": "Oxfordshire",
+    "volume": 2468
+  },
+  {
+    "medication": "Isoniazid",
+    "city": "Aberdeenshire",
+    "volume": 3007
+  },
+  {
+    "medication": "GABAPENTIN",
+    "city": "Clwyd",
+    "volume": 2390
+  },
+  {
+    "medication": "Quetiapine Fumarate",
+    "city": "Gwent",
+    "volume": 4344
+  },
+  {
+    "medication": "Furosemide",
+    "city": "Gwynedd",
+    "volume": 2146
+  },
+  {
+    "medication": "Dicyclomine Hydrochloride",
+    "city": "Gwynedd",
+    "volume": 2370
+  },
+  {
+    "medication": "ED CHLORPED JR",
+    "city": "Gwynedd",
+    "volume": 2142
+  },
+  {
+    "medication": "GABAPENTIN",
+    "city": "Lancashire",
+    "volume": 1761
+  },
+  {
+    "medication": "Quetiapine Fumarate",
+    "city": "Lancashire",
+    "volume": 2392
+  },
+  {
+    "medication": "Furosemide",
+    "city": "Lancashire",
+    "volume": 2466
+  },
+  {
+    "medication": "Ibuprofen",
+    "city": "Gwynedd",
+    "volume": 2256
+  },
+  {
+    "medication": "LOSARTAN POTASSIUM",
+    "city": "Gwynedd",
+    "volume": 2546
+  },
+  {
+    "medication": "ACETAMINOPHEN AND CODEINE PHOSPHATE",
+    "city": "Gwynedd",
+    "volume": 2441
+  },
+  {
+    "medication": "Ibuprofen",
+    "city": "Aberdeenshire",
+    "volume": 2316
+  },
+  {
+    "medication": "Tizanidine",
+    "city": "Clwyd",
+    "volume": 2653
+  },
+  {
+    "medication": "Ibuprofen",
+    "city": "Dyfed",
+    "volume": 2619
+  },
+  {
+    "medication": "Triamterene and Hydrochlorothiazide",
+    "city": "Dyfed",
+    "volume": 2307
+  },
+  {
+    "medication": "ATORVASTATIN CALCIUM",
+    "city": "Gwynedd",
+    "volume": 4800
+  },
+  {
+    "medication": "Acetaminophen",
+    "city": "Gwynedd",
+    "volume": 2578
+  },
+  {
+    "medication": "Dicyclomine Hydrochloride",
+    "city": "Aberdeenshire",
+    "volume": 2359
+  },
+  {
+    "medication": "Jardiance",
+    "city": "Dyfed",
+    "volume": 2495
+  },
+  {
+    "medication": "Tizanidine",
+    "city": "Gwynedd",
+    "volume": 2538
+  },
+  {
+    "medication": "GABAPENTIN",
+    "city": "Gwynedd",
+    "volume": 2527
+  },
+  {
+    "medication": "Mirtazapine",
+    "city": "Dyfed",
+    "volume": 2339
+  },
+  {
+    "medication": "Amlodipine Besylate",
+    "city": "Dyfed",
+    "volume": 2067
+  },
+  {
+    "medication": "Isoniazid",
+    "city": "Dyfed",
+    "volume": 2274
+  },
+  {
+    "medication": "Ibuprofen",
+    "city": "Oxfordshire",
+    "volume": 2618
+  },
+  {
+    "medication": "Quetiapine Fumarate",
+    "city": "Aberdeenshire",
+    "volume": 2393
+  },
+  {
+    "medication": "Isoniazid",
+    "city": "Lancashire",
+    "volume": 2488
+  },
+  {
+    "medication": "ACETAMINOPHEN AND CODEINE PHOSPHATE",
+    "city": "Clwyd",
+    "volume": 2168
+  },
+  {
+    "medication": "Isosorbide Mononitrate",
+    "city": "Clwyd",
+    "volume": 2468
+  },
+  {
+    "medication": "Furosemide",
+    "city": "Gwent",
+    "volume": 4767
+  },
+  {
+    "medication": "Tizanidine",
+    "city": "Oxfordshire",
+    "volume": 2578
+  },
+  {
+    "medication": "Furosemide",
+    "city": "Clwyd",
+    "volume": 2706
+  },
+  {
+    "medication": "Gabapentin",
+    "city": "Gwent",
+    "volume": 4714
+  },
+  {
+    "medication": "Doxazosin mesylate",
+    "city": "Lancashire",
+    "volume": 2374
+  },
+  {
+    "medication": "Levothyroxine sodium",
+    "city": "Gwynedd",
+    "volume": 2557
+  },
+  {
+    "medication": "Furosemide",
+    "city": "Dyfed",
+    "volume": 2755
+  },
+  {
+    "medication": "Ibuprofen",
+    "city": "Clwyd",
+    "volume": 2538
+  },
+  {
+    "medication": "Hydroxyzine Pamoate",
+    "city": "Lancashire",
+    "volume": 2529
+  },
+  {
+    "medication": "Acetaminophen",
+    "city": "Lancashire",
+    "volume": 2725
+  },
+  {
+    "medication": "Triamterene and Hydrochlorothiazide",
+    "city": "Clwyd",
+    "volume": 2246
+  },
+  {
+    "medication": "Dicyclomine Hydrochloride",
+    "city": "Lancashire",
+    "volume": 2576
+  },
+  {
+    "medication": "Isosorbide Mononitrate",
+    "city": "Lancashire",
+    "volume": 2298
+  },
+  {
+    "medication": "Amlodipine Besylate",
+    "city": "Lancashire",
+    "volume": 2422
+  },
+  {
+    "medication": "RANOLAZINE",
+    "city": "Lancashire",
+    "volume": 2454
+  },
+  {
+    "medication": "Dicyclomine Hydrochloride",
+    "city": "Dyfed",
+    "volume": 2450
+  },
+  {
+    "medication": "Acetaminophen",
+    "city": "Oxfordshire",
+    "volume": 2466
+  },
+  {
+    "medication": "ATORVASTATIN CALCIUM",
+    "city": "Clwyd",
+    "volume": 4871
+  },
+  {
+    "medication": "Mirtazapine",
+    "city": "Clwyd",
+    "volume": 2350
+  },
+  {
+    "medication": "Jardiance",
+    "city": "Clwyd",
+    "volume": 2072
+  },
+  {
+    "medication": "Tadalafil",
+    "city": "Aberdeenshire",
+    "volume": 2453
+  },
+  {
+    "medication": "ED CHLORPED JR",
+    "city": "Lancashire",
+    "volume": 2466
+  },
+  {
+    "medication": "Levothyroxine sodium",
+    "city": "Lancashire",
+    "volume": 2536
+  },
+  {
+    "medication": "Tizanidine",
+    "city": "Aberdeenshire",
+    "volume": 2616
+  },
+  {
+    "medication": "Tadalafil",
+    "city": "Dyfed",
+    "volume": 2353
+  },
+  {
+    "medication": "Isoniazid",
+    "city": "Clwyd",
+    "volume": 2677
+  },
+  {
+    "medication": "Gabapentin",
+    "city": "Lancashire",
+    "volume": 2323
+  },
+  {
+    "medication": "Hydroxyzine Pamoate",
+    "city": "Clwyd",
+    "volume": 2287
+  },
+  {
+    "medication": "ACETAMINOPHEN AND CODEINE PHOSPHATE",
+    "city": "Lancashire",
+    "volume": 2213
+  },
+  {
+    "medication": "Levothyroxine sodium",
+    "city": "Dyfed",
+    "volume": 2153
+  },
+  {
+    "medication": "LOSARTAN POTASSIUM",
+    "city": "Lancashire",
+    "volume": 2485
+  },
+  {
+    "medication": "Hydroxyzine Pamoate",
+    "city": "Gwynedd",
+    "volume": 2726
+  },
+  {
+    "medication": "LOSARTAN POTASSIUM",
+    "city": "Dyfed",
+    "volume": 2168
+  },
+  {
+    "medication": "RANOLAZINE",
+    "city": "Dyfed",
+    "volume": 2266
+  },
+  {
+    "medication": "Doxazosin mesylate",
+    "city": "Clwyd",
+    "volume": 2589
+  },
+  {
+    "medication": "Amlodipine Besylate",
+    "city": "Gwynedd",
+    "volume": 2233
+  }
+]

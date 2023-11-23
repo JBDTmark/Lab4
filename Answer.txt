@@ -1,0 +1,14 @@
+Task1:
+
+1.restricted
+2.read only
+3.12 month
+
+Task2:
+
+2: internal
+3: C
+4. dont keep the sensitive date and sum all same medication in one city, let more staff have the
+acess right to the new js file.
+5. C
+6. E

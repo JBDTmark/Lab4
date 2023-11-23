@@ -1,10 +1,16 @@
 const fs = require('fs');
 
-// 读取客户数据的JSON文件
-const customersFilePath = '/Users/mark/Downloads/MSC/System Security/Labs/Lab4/customers.json'; // 替换为实际文件路径
-const taggedCustomersFilePath = '/Users/mark/Downloads/MSC/System Security/Labs/Lab4/taggedcustomers.json'; // 输出文件的路径
+// read and write files
+const customersFilePath = '/Users/mark/Downloads/MSC/System Security/Labs/Lab4/customers.json'; 
+const taggedCustomersFilePath = '/Users/mark/Downloads/MSC/System Security/Labs/Lab4/taggedcustomers.json'; 
 
-// 映射字段到敏感性标签
+fs.readFile(customersFilePath, 'utf8', (err, data) => {
+  if (err) {
+    console.error('Error reading the file:', err);
+    return;
+  }
+
+// map fields to tags
 const sensitivityMapping = {
   'chino': 'hsi',
   'name': 'si',
@@ -15,29 +21,35 @@ const sensitivityMapping = {
   'volume': 'lsi'
 };
 
-// 为每个字段分配标签
+const MRPMapping = {
+  'chino': '1 year',
+  'name': '1 year',
+  'medication': '1 year',
+  'county': '1 year',
+  'city': '1 year',
+  'ethnicity': '1 year',
+  'volume': '1 year'
+};
+
+// allocate tags to customer data
 function tagCustomerData(customer) {
   const taggedCustomer = {};
   for (const [key, value] of Object.entries(customer)) {
     taggedCustomer[key] = {
       value: value,
-      tag: sensitivityMapping[key] || 'lsi' // 默认分配为'lsi'
+      tag: sensitivityMapping[key] || 'lsi',
+      MRP: MRPMapping[key] || '1 year'
     };
   }
   return taggedCustomer;
 }
 
-// 读取并处理JSON文件
-fs.readFile(customersFilePath, 'utf8', (err, data) => {
-  if (err) {
-    console.error('Error reading the file:', err);
-    return;
-  }
+
 
   const customers = JSON.parse(data);
   const taggedCustomers = customers.map(tagCustomerData);
 
-  // 保存带标签的客户数据
+  // save the tagged customer data to a new file
   fs.writeFile(taggedCustomersFilePath, JSON.stringify(taggedCustomers, null, 2), err => {
     if (err) {
       console.error('Error writing the file:', err);
